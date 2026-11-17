@@ -9,6 +9,7 @@ Each tip is small, self-contained, and costs **zero tokens** unless noted otherw
 | # | Tip | What it does |
 |---|---|---|
 | 1 | [🔊 Voice alert when input is needed](tips/voice-alert.md) | Your Mac *says your name* out loud when Claude Code is waiting on you — no more missed prompts. Zero tokens, works offline. *(macOS)* |
+| 2 | [🎥 Back up your own Loom recordings](tips/loom-download.md) | A one-file Python script that saves a Loom video you have access to as a local `.mp4`, ready to archive or feed to an AI tool for transcription. Zero tokens. |
 
 ## Skills
 
